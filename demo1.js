@@ -31,16 +31,6 @@ const contacts = [
                 return false;
             }
         },Manan)
-
-        // for(let i = 0; i<contacts.length; i++){
-        //     if(contacts[i].firstName[0] === contacts[i].firstName[0].toUpperCase()){
-        //         return true              
-        //     }
-        //     else{
-        //         return false
-        //     }
-        // }
-        
     }
 
     let ln = function(){
